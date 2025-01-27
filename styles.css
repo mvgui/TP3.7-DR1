@@ -1,0 +1,21 @@
+body {
+  font-size: 13px;
+  text-align: center;
+  background-color: #e5fae6;
+}
+
+div {
+  width: 70%;
+  padding: 10px;
+  margin: 20px auto;
+}
+h1 {
+  font-size: 3em;
+  color: #0c570e;
+}
+
+p {
+  font-size: 0.8em;
+  color: black;
+  text-align: justify;
+}
